@@ -32,9 +32,8 @@ func main() {
 	// 0. means 0.0
 	n := 0.
 
-	// ADD YOUR CODE BELOW
-
-	// ?
+	n = 3.14 * 2
 
 	fmt.Println(n)
+	
 }
